@@ -1,7 +1,0 @@
-.StudentTemplate-container {
-    display: flex;
-    flex-direction: column; /* Sắp xếp các component theo chiều dọc */
-    gap: 20px;              /* Tạo khoảng cách giữa các component */
-    padding: 20px;          /* Tạo khoảng cách padding cho toàn bộ layout */
-  }
-  
